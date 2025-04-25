@@ -1,0 +1,74 @@
+# Переменные окружения
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Виртуальное окружение
+venv/
+ENV/
+env/
+.venv/
+
+# Логи и сессии
+*.log
+*.session
+*.session-journal
+admin_bot.log
+user_bot.session
+user_bot.session-journal
+
+# IDE
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Файлы конфигурации
+config.ini
+settings.json
+
+# Медиафайлы (временно загруженные боту)
+downloads/
+uploads/
+media/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+*.ogg
+*.webp
